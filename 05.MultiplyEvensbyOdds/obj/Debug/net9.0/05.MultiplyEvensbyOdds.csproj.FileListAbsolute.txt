@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\05.MultiplyEvensbyOdds\bin\Debug\net9.0\05.MultiplyEvensbyOdds.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\05.MultiplyEvensbyOdds\bin\Debug\net9.0\05.MultiplyEvensbyOdds.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\05.MultiplyEvensbyOdds\bin\Debug\net9.0\05.MultiplyEvensbyOdds.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\05.MultiplyEvensbyOdds\bin\Debug\net9.0\05.MultiplyEvensbyOdds.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\05.MultiplyEvensbyOdds\bin\Debug\net9.0\05.MultiplyEvensbyOdds.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\05.MultiplyEvensbyOdds\obj\Debug\net9.0\05.MultiplyEvensbyOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\05.MultiplyEvensbyOdds\obj\Debug\net9.0\05.MultiplyEvensbyOdds.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\05.MultiplyEvensbyOdds\obj\Debug\net9.0\05.MultiplyEvensbyOdds.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\05.MultiplyEvensbyOdds\obj\Debug\net9.0\05.MultiplyEvensbyOdds.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\05.MultiplyEvensbyOdds\obj\Debug\net9.0\05.MultiplyEvensbyOdds.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\05.MultiplyEvensbyOdds\obj\Debug\net9.0\05.MultiplyEvensbyOdds.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\05.MultiplyEvensbyOdds\obj\Debug\net9.0\refint\05.MultiplyEvensbyOdds.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\05.MultiplyEvensbyOdds\obj\Debug\net9.0\05.MultiplyEvensbyOdds.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\05.MultiplyEvensbyOdds\obj\Debug\net9.0\05.MultiplyEvensbyOdds.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\05.MultiplyEvensbyOdds\obj\Debug\net9.0\ref\05.MultiplyEvensbyOdds.dll
