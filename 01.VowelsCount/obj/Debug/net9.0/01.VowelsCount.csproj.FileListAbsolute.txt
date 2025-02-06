@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\01.VowelsCount\obj\Debug\net9.0\01.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\01.VowelsCount\obj\Debug\net9.0\01.VowelsCount.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\01.VowelsCount\obj\Debug\net9.0\01.VowelsCount.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\01.VowelsCount\obj\Debug\net9.0\01.VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\01.VowelsCount\obj\Debug\net9.0\01.VowelsCount.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\01.VowelsCount\bin\Debug\net9.0\01.VowelsCount.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\01.VowelsCount\bin\Debug\net9.0\01.VowelsCount.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\01.VowelsCount\bin\Debug\net9.0\01.VowelsCount.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\01.VowelsCount\bin\Debug\net9.0\01.VowelsCount.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\01.VowelsCount\bin\Debug\net9.0\01.VowelsCount.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\01.VowelsCount\obj\Debug\net9.0\01.VowelsCount.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\01.VowelsCount\obj\Debug\net9.0\refint\01.VowelsCount.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\01.VowelsCount\obj\Debug\net9.0\01.VowelsCount.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\01.VowelsCount\obj\Debug\net9.0\01.VowelsCount.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\01.VowelsCount\obj\Debug\net9.0\ref\01.VowelsCount.dll

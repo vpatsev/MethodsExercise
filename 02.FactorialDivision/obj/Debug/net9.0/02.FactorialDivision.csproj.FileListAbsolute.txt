@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\02.FactorialDivision\bin\Debug\net9.0\02.FactorialDivision.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\02.FactorialDivision\bin\Debug\net9.0\02.FactorialDivision.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\02.FactorialDivision\bin\Debug\net9.0\02.FactorialDivision.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\02.FactorialDivision\bin\Debug\net9.0\02.FactorialDivision.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\02.FactorialDivision\bin\Debug\net9.0\02.FactorialDivision.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\02.FactorialDivision\obj\Debug\net9.0\02.FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\02.FactorialDivision\obj\Debug\net9.0\02.FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\02.FactorialDivision\obj\Debug\net9.0\02.FactorialDivision.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\02.FactorialDivision\obj\Debug\net9.0\02.FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\02.FactorialDivision\obj\Debug\net9.0\02.FactorialDivision.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\02.FactorialDivision\obj\Debug\net9.0\02.FactorialDivision.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\02.FactorialDivision\obj\Debug\net9.0\refint\02.FactorialDivision.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\02.FactorialDivision\obj\Debug\net9.0\02.FactorialDivision.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\02.FactorialDivision\obj\Debug\net9.0\02.FactorialDivision.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\MethodsExercise\02.FactorialDivision\obj\Debug\net9.0\ref\02.FactorialDivision.dll
